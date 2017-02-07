@@ -1,10 +1,11 @@
 locale: "en-US"
 title: Saket Vishwasrao# Title of your site
 timezone: America/New_York
+BASE_PATH : http://saketv02.github.io/Strata-Jekyll-Theme
 
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog/
-google_analytics_key: ""
+#baseurl: "" # the subpath of your site, e.g. /blog/
+#google_analytics_key: ""
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: > # this means to ignore newlines until "baseurl:"
