@@ -1,7 +1,6 @@
 locale: "en-US"
 title: Saket Vishwasrao# Title of your site
 timezone: America/New_York
-baseurl: https://saketv02.github.io/Strata-Jekyll-Theme/
 
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 #baseurl: "" # the subpath of your site, e.g. /blog/
