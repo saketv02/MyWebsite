@@ -1,8 +1,12 @@
 - name: Facebook
-  link: 'https://www.facebook.com/comfusionllc'
+  link: 'https://www.facebook.com/saket.vishwasrao'
   social_icon: Facebook
   new_window: true
-- name: RSS
-  link: '/feed.xml'
-  social_icon: RSS
+- name: Github
+  link: 'https://github.com/saketv02'
+  social_icon: Github
+  new_window: true
+- name: LinkedIn
+  link: 'https://www.linkedin.com/in/saketvishwasrao'
+  social_icon: LinkedIn
   new_window: true
