@@ -1,0 +1,6 @@
+---
+layout: post
+categories: projects
+---
+
+This is project 1

@@ -5,7 +5,7 @@ timezone: America/New_York
 baseurl: /MyWebsite
 
 
-#url: "http://yourdomain.com" # the base hostname & protocol for your site
+#url: "http://localhost:4000" # the base hostname & protocol for your site
 #baseurl: "" # the subpath of your site, e.g. /blog/
 #google_analytics_key: ""
 
@@ -28,6 +28,12 @@ social:
     - https://github.com/saketv02/strata-reloaded-jekyll-template
 
 permalink: pretty
+
+markdown: kramdown
+
+categories:
+- regular
+- projects
 
 gems:
   - "jekyll-feed"
