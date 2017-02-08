@@ -1,0 +1,7 @@
+---
+layout: post
+categories: regular
+---
+
+
+This is first post
